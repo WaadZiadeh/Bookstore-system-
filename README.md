@@ -14,4 +14,4 @@ This project is a simple book management system for a bookstore or library. The 
 ## Installation
 1. Clone the repository:
    ```bash
-  git clone https://github.com/WaadZiadeh/Bookstore-system.git
+      git clone https://github.com/WaadZiadeh/Bookstore-system.git
